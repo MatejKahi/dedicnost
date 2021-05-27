@@ -1,0 +1,14 @@
+Tvary/Loader.java
+ Tvary.Loader
+Tvary/Kruh.java
+ Tvary.Kruh
+Tvary/Tvar.java
+ Tvary.Tvar
+Tvary/Trojuhelnik.java
+ Tvary.Trojuhelnik
+Tvary/Obdelnik.java
+ Tvary.Obdelnik
+Tvary/Ctverec.java
+ Tvary.Ctverec
+Tvary/Main.java
+ Tvary.Main
